@@ -52,7 +52,7 @@ const PasswordReveal = () => {
         textAlign: "center",
         marginTop: "50px",
         padding: "20px",
-        background: "url('https://www.emailbackgrounds.com/files/christmas/260/top.gif') center/cover",
+        background: "url('i.imgur.com/xAgBZmF.jpeg') center/cover",
         minHeight: "100vh",
         color: "#fff",
         fontFamily: "'Satisfy', cursive",
