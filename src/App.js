@@ -52,7 +52,7 @@ const PasswordReveal = () => {
         textAlign: "center",
         marginTop: "50px",
         padding: "20px",
-        background: "url('/backgroundwebsite.jpeg') center/cover",
+        background: "url('/backgroundwebsite.jpg') center/cover",
         minHeight: "100vh",
         color: "#fff",
         fontFamily: "'Satisfy', cursive",
